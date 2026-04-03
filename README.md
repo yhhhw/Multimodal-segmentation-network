@@ -10,3 +10,6 @@ Code for the paper "MSFFNet: Multimodal Spatial–Frequency Fusion Network for R
 - einops 0.8.0
 - pytorch_wavelets 1.3.0
 - PyWavelets 1.4.1
+
+## Run
+``python msffnet.py``
